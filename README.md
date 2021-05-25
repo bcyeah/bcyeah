@@ -1,4 +1,4 @@
-### Hi there 👋
+### 积土成山，风雨兴焉；积水成渊，蛟龙生焉；积善成德，而神明自得，圣心备焉。故不积跬步，无以至千里；不积小流，无以成江海。骐骥一跃，不能十步；驽马十驾，功在不舍。锲而舍之，朽木不折；锲而不舍，金石可镂
 
 <!--
 **bcyeah/bcyeah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
